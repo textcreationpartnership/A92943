@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sad warning to all prophane, malignant spirits; who reproach true Protestants with the name of round-heads. VVherein is declared five sad examples of Gods fearfull and just judgements upon them.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92943</idno><idno type="EEBO-CITATION">99859158</idno>
+  <idno type="VID">156767</idno>
+  <idno type="EEBO-PROQUEST">2240868590</idno>
+  
+            <idno type="STC">Wing S263</idno>
+            <idno type="STC">Thomason E151_8</idno>
+            <idno type="STC">ESTC R11864</idno>
+            <idno type="PROQUEST">99859158</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859158e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156767)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E151[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sad warning to all prophane, malignant spirits; who reproach true Protestants with the name of round-heads. VVherein is declared five sad examples of Gods fearfull and just judgements upon them.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. U.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Roundheads --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156767:1"/>
+            <p>A SAD WARNING TO ALL PROPHANE, MALIGNANT SPI<g ref="char:EOLhyphen"/>RITS; WHO REPROACH True Protestants with the name of ROUND-HEADS.</p>
+            <p>VVHEREIN IS DECLA<g ref="char:EOLhyphen"/>red five sad examples of Gods fear<g ref="char:EOLhyphen"/>full and just Judgements upon them.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. U.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156767:2"/>
+            <pb n="1" facs="tcp:156767:2"/>
+            <head>A SAD WARNING To all Malignant Spirits.</head>
+            <head type="sub">Caveats for Anti-Round-heads: or the fearefull Iudgements of God upon severall persons in severall places for the abuse of the tongue, and may serve as a good Item to those, whose tongues are by themselves accounted their owne, and yet can<g ref="char:EOLhyphen"/>not or will not rule them.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Mong the manifold examples of Gods wrath and Justice upon men for sinne, this age hath had not a few as well as former ages; and as former ages have showne forth severall exam<g ref="char:EOLhyphen"/>ples of Gods Irefull indignation for severall sinnes: so especially among other sinnes for this, the persecution of Gods servants: which persecution, least some should thinke them<g ref="char:EOLhyphen"/>selves altogether free from, so long as they keepe their hands from being actually embrewed in innocent blood, let them be pleased to consider that there is a double persecution; either when a man doth incourage another in his persecution of others, or when a man doth himselfe actually persecute, the first of these shall bee wa<g ref="char:EOLhyphen"/>ved altogether in this discourse, the second shall be touched upon, and so I shall passe on to the ensuing discourse: And these persecutors wee shall reduce to three sorts, and they are these; First, hand persecutors; secondly, heart persecutors; thirdly tongue persecutors. As for the first sort of persecutors, whose persecution is a persecution of the hand (as I may so tearme it) this is of a large extent, consisting in externall persecuting actions: But I shall decline speaking of that, because it doth not so properly belong to this discourse, and it being also a thing,
+<pb n="2" facs="tcp:156767:3"/>which many, though their malicious hearts would put them upon it, yet dare not act it, because the Lawes of the Land doe manacle them, and so doth restraine them from that which their owne evill hearts would put them upon: I shall also in that regard say no more of it; so likewise for the second sort of persecutors, whose persecuti<g ref="char:EOLhyphen"/>on is the persecution of the heart. I shall not speake of that at all, be<g ref="char:EOLhyphen"/>cause ye shall see enough of what is in the heart by that which is in the tongue, for as Christ saith, <hi>Matthew</hi> 12.34. <hi>From the abundance of the heart the mouth speaketh:</hi> So that the tongue being an evident de<g ref="char:EOLhyphen"/>monstration of that to the world that before lay hid in the heart, I shall not neede to speake any thing at all of that; and so I come to speake of the third sort of persecutors, and those are they whose persecution is with the tongue.</p>
+            <p>Now concerning this persecution, the Apostle <hi>Paul</hi> speakes in the fourth Chapter of the <hi>Galatians,</hi> vers. 28. where the Apostle speaking concerning <hi>Ishmael</hi> and <hi>Isaac,</hi> saith, that hee that was borne after the flesh did persecute him that was borne after the Spirit: what that perse<g ref="char:EOLhyphen"/>cution was, is apparent enough: It was the persecution of the tongue, as you may see if you compare that place in the fourth Chapter of the <hi>Gal<g ref="char:EOLhyphen"/>latians,</hi> vers. 28. with the 21. of <hi>Genesis, verse</hi> 9. there you may see that which in <hi>Genesis</hi> is called a mocking of <hi>Isaac,</hi> that in the fourth of the Epistle to the <hi>Galatians,</hi> vers. 28. is called a persecution of <hi>Isaac.</hi>
+            </p>
+            <p>Now concerning examples of such as have had Gods fearefull judge<g ref="char:EOLhyphen"/>ments seize upon them for this kind of persecution: you may take no<g ref="char:EOLhyphen"/>tice of them as recorded in Holy Writ, and also as made examples by God in our dayes, that so they may be as Sea markes for the ensuing Generations, least they should dash themselves upon the same Rockes.</p>
+            <p>First to instance one and no more in divine writ, and that I would have you seriously to marke, It is in 2. <hi>Kings</hi> 2.23, 24. There you may see that a great judgement fell upon those little Children for calling the Prophet <hi>Elisha</hi> Bald-head. Its an instance concerning a Prophet, but may be applyed by others of Gods servants. It is said that two Beares did come out of the Wood and tore 42. of them: A man would have thought, judging after the judgement of Carnall Reason: that this had beene somewhat hard. Especially being that they were (as the Text saith) <hi>But little Children;</hi> which happily some of them might scarce understand what they said, and might be drawne to it by others ex<g ref="char:EOLhyphen"/>amples; now for such a judgement to come upon them, there lies the wonder: and if they had beene at riper yeares, and such a judgement had come upon them for such an evill, then it would have seemed some<g ref="char:EOLhyphen"/>what
+<pb n="3" facs="tcp:156767:3"/>more tollerable to the dimme eyes of carnall Reason, and men would not so wonder at it. But from hence we may see how God hates this sinne of persecution: that he punisheth it many times in them which scarce know what they doe, but may happily, or rather unhappily be brought on to it by others examples: who may not do it out of ignorance, but through knowledge, and its well if not out of malice also. And in all this God is most just, for he may punish sinne where ever hee finds it, whether it be in small or great.</p>
+            <p>But to come to our own times, in which hath bin manifested the severe indignation of God against such courses. Two examples of which wee have had in the City of <hi>Oxford,</hi> in which, as in a Looking-glasse we may behold the most remarkeable and fearefull indignation of Gods severe countenance against such persons as have a hand in a thing so highly displeasing to his Majestie as that is, namely the persecution of them who are the favorites of the God of heaven, what ever man esteeme of them.</p>
+            <p>The first example that I shall give you, is, of one in the Parish of <hi>Hollowell</hi> in the City of <hi>Oxford</hi> (who being desirous to looke backe to the Garlicke and Onions of Egypt. I meane those May-pole games as delightfull to them as the other things to <hi>Israel</hi> of old) did set up a May-pole, that he might not be different from others in other places there abouts; and rather than he would be deficient in what others had, he would be superfluous and have what others had not; although in<g ref="char:EOLhyphen"/>deed what he had, and others had in that particular, was more than a good deale: he being now desirous to make some addition to the Pole-sport, sets upon that the picture of a man in a Tub, and said, that was the picture of a Roundhead: which Picture is reported to be made in de<g ref="char:EOLhyphen"/>rision of a godly man, a Manciple of one of the Colledges in <hi>Oxford:</hi> and the Reason why it was to represent him, was, because he was a god<g ref="char:EOLhyphen"/>ly honest man, having repetition of Sermons in his house, and did that which God requires of him, and of them too, who despised it, although they have not that grace that he had to perform<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their duty as they ought. This Picture being up, this man, with others being about it, ma<g ref="char:EOLhyphen"/>king themselves merrily mad, or mad merry (call it what you will) In the conclusion they came to this, that they would shoote at this Picture of the Roundhead; some say that the Picture was to be pulled downe by the command of the Vice-Chancellour, and for that they would have this Picture downe in triumph, because it was to goe downe therefore they did shoote at it, but whether that be so or no, it is not much materi<g ref="char:EOLhyphen"/>all, the end of their sport was to deride those who were of that good<g ref="char:EOLhyphen"/>nesse
+<pb n="4" facs="tcp:156767:4"/>which they for their parts did not mean to attain unto, and these called by the name of Round-heads: In the conclusion some brought Muskets, and other Pieces to shoot at the Picture, and one, a servant of the man whose delight this game was, shot, and did hit the Picture, at which the Master fell a laughing, and on a sudden sunke downe, falling into a Convultion fit, and hath beene sicke ever since, and now at this present for any thing reported to the contrary, and whether he will live or die, that must be left to him to judge, who hath the issues of life and death in his owne hand.</p>
+            <p n="2">2. The second example in the same City was in a Taverne, where be<g ref="char:EOLhyphen"/>ing met a company of drinkers, who rather then they would have no pastime at all, in the midst of their cups did resolve to doe that which was evill, so they might rejoyce in it, and what they are that reioyce in evill, <hi>Solomon</hi> tels you: Among the rest of their actions, this was one, a health dranke to the confusion of the Round-heads, which when it had gone round, one amongst the rest being ready to invent something new, though never so naught; come saith he, I will goe cut a Caper to the confusion of the Round-heads, but his wife not liking such doings, would have perswaded him to have desisted from it, as once <hi>Pilates</hi> wife would have disswaded him from an evill action, <hi>Mat.</hi> 27.29. But as <hi>Pilates</hi> wife could not prevaile with <hi>Pilate,</hi> so neither could this wo<g ref="char:EOLhyphen"/>man with her husband. But he going to begin his dance, and so to cut his caper, fell downe and broke his leg, upon which he lay by it a long while, and at last dyed.</p>
+            <p n="3">3. Another example is a company of Roysters about Chearing-Cross, or not far off it, abusing one of the trained Bands with their uncivill tongues, giving them reproachfull and ignominious termes, and being reproved by one for it, fell fowle upon the man, and drew upon him, and in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>usting at him, gave him a prick in the hand, the mans hilt of his sword having none of the best guards; but he being set upon, let flie at one of them, and cut him crosse the wrist, and so cutting the sinewes he let fall his sword, and so was laid hold of, and now lies in the Gatehouse to answer for his demerits.</p>
+            <p n="4">4. Another example is of divers persons, who being drinking in the Miter Taverne in Fleet-streete, did abuse another of the traine Bands of the City, by casting out something forth of the Chamber window among the Sovldiers, besides the abusive language they used; one having more ingenuity then the other, reproved them that did it, and upon that they asked him if he were a Round-head, and they drawing one upon ano<g ref="char:EOLhyphen"/>ther,
+<pb n="5" facs="tcp:156767:4"/>this man made at by the other, puts by his thrust, got within him, and stabbed him with a Stilletto, the others comming on him likewise, he wounded them both; of which three wounded, two are now dead, and the other his recovery questionable: This man made away downe staires, with his sword in one hand, and Stilletto in another, and running downe Ram-Alley, got down toward the water, and is not as yet heard of: here may we see Gods Justice upon these, as was once shown upon the Amorites and Moabites, suffering them to slay one another, that so he might take vengeance upon their sins.</p>
+            <p>One in Cree-Church Parish, a woman commonly noted to be an e<g ref="char:EOLhyphen"/>nemy to, and a mocker of goodnesse and good men, which ill disposi<g ref="char:EOLhyphen"/>tion of hers, she manifested not long since in the Church at a Sermon made there by Master <hi>Wels,</hi> who desired that they would not sleep, but she being asleep, and wakened by one Mistresse <hi>Clarke,</hi> a woman well reputed of for godlinesse, which awakening was but in a neighbourly and loving way, by the jogging of her knee, as they sate together; Shee presently fell into strange expressions, <hi>(Oh you bold drunken slut, doe you kick me)</hi> with many other uncivill speeches, which language the said Mi<g ref="char:EOLhyphen"/>stresse <hi>Clarke</hi> put up in silence, and only acquainted her husband with her usage in the forenoone, and expressed her unwillingnesse to sit in the pew with her, whereupon he unwilling there should bee any difference between his wife and any, repaired to the Minister of the Church, and desired that the Church-wardens, and the ancientest of the parish would after Sermon send for the womans husband, and see whether or no hee would abett and encourage her in this evill: According to his desire, after Sermon he was sent for, and came, where after he had asked the cause why he was sent for, and the wronged party began to relate it, hee would not suffer him to goe on, but broke forth into fowle words, and told him he lyed, for his wife had kicked his wife in the Church, therup<g ref="char:EOLhyphen"/>on the Lecturer of the said Church, Master <hi>Falkingham,</hi> desired in love to take him of, and entreated that each might be heard, and then the busi<g ref="char:EOLhyphen"/>nesse would the better be reconciled; to whom he replyed, I have no<g ref="char:EOLhyphen"/>thing to doe with you, nor you with me, and to another that reproved him for such ill behaviour, you are a Blockhead, and a Roundhead, and thereupon went hastily out of the Vestrie, and fetcht his wife, who came thither in a great heat, and very probably full of bitternesse, for the ma<g ref="char:EOLhyphen"/>lignant spirit did thrust out so fast, that as those that observed her best, did verily beleeve it stopped her breath: Some said that she spake evill of the said Master <hi>Wels,</hi> others that she boasted how she had used Mi<g ref="char:EOLhyphen"/>stresse
+<pb n="6" facs="tcp:156767:5"/>
+               <hi>Clarke,</hi> others, that she wished her selfe some mischiefe if Mistresse <hi>Clarke</hi> had not kickt her, others, that shee and hee both did utter many bitter words at, and before this evident token of Gods displeasure: but though these be probable enough, yet we will not set them downe for currant, and indeed it is well knowne that they both have been long dis<g ref="char:EOLhyphen"/>affected to pure Religion, and have been ready not only to speake evill of ordinary Christians, but of Gods own Messengers, and now at this time suffering their tongues to wander beyond bounds: But let all good people from this example take notice of God in the way of his Justice, to dread and praise him, and that all so addicted, would take notice of it as a Judgement upon the husband (that should partake of his wives sin, &amp; use the like language, &amp; manage her in such abominable wickedness) and upon her, in that God struck her in the very act of belching out her venome, and made her gall to become bitter to death to her selfe; for she fell down dead presently after she (in a rage) departed from the Ve<g ref="char:EOLhyphen"/>strie: We wrote this not to accuse her or him, but to cleare God, and warne all wicked persons. More might have been said, and more strickt observation had of Gods hand, but some are willing to be silent, and o<g ref="char:EOLhyphen"/>thers had not spirits to take speciall notice of her end, who were by her at her end: But for proofe of this we can produce many hands.</p>
+            <p>One affirmes, that iust when she was dying, one saying to her, Mi<g ref="char:EOLhyphen"/>stresse <hi>Clarke</hi> would not abuse her, she cursed, saying, <hi>A poxe take you,</hi> you are one of the holy sisters, and suddenly her tongue (as was obser<g ref="char:EOLhyphen"/>ved) turned black.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
